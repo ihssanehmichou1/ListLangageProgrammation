@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="programmation">
+    <item>Java</item>
+    <item>C#</item>
+    <item>Python</item>
+    <item>Kotlin</item>
+    <item>Swift</item>
+</string-array>
+</resources>
